@@ -1,12 +1,12 @@
 # Anomaly Vision Model
 
-[![Active model](badges/active-model.svg)](https://github.com/ufo-files/anomaly-vision-model/releases/tag/model-185750ddef1dd230761e83b84aaca5482cdcba0aa573f190634f154890650ebf)
-[![Model published](https://img.shields.io/github/release-date/ufo-files/anomaly-vision-model?label=model%20published)](https://github.com/ufo-files/anomaly-vision-model/releases/latest)
-[![Cropped labels](badges/cropped-labels.svg)](https://github.com/ufo-files/anomaly-vision-model/releases/latest)
+[![Active model](badges/active-model.svg)](https://github.com/Star-People/anomaly-vision-model/releases/tag/model-185750ddef1dd230761e83b84aaca5482cdcba0aa573f190634f154890650ebf)
+[![Model published](https://img.shields.io/github/release-date/Star-People/anomaly-vision-model?label=model%20published)](https://github.com/Star-People/anomaly-vision-model/releases/latest)
+[![Cropped labels](badges/cropped-labels.svg)](https://github.com/Star-People/anomaly-vision-model/releases/latest)
 
-Visual anomaly classification for [UFO Files Field Station](https://github.com/ufo-files/field-station). The current model classifies detected camera-image crops as **Anomalous** or **Not Anomalous**, using examples reviewed by the station operator.
+Visual anomaly classification for [UFO Files Field Station](https://github.com/Star-People/field-station). The current model classifies detected camera-image crops as **Anomalous** or **Not Anomalous**, using examples reviewed by the station operator.
 
-Download the current model from [the latest release](https://github.com/ufo-files/anomaly-vision-model/releases/latest). New deployed models are published as versioned GitHub Releases; the date of the latest commit on `main` is not the date of the latest model.
+Download the current model from [the latest release](https://github.com/Star-People/anomaly-vision-model/releases/latest). New deployed models are published as versioned GitHub Releases; the date of the latest commit on `main` is not the date of the latest model.
 
 ## Download a model
 
@@ -15,7 +15,7 @@ With the GitHub CLI installed:
 ```bash
 mkdir anomaly-vision-model-release
 cd anomaly-vision-model-release
-gh release download --repo ufo-files/anomaly-vision-model   --pattern model.tar.gz --pattern model-card.json --pattern SHA256SUMS
+gh release download --repo Star-People/anomaly-vision-model   --pattern model.tar.gz --pattern model-card.json --pattern SHA256SUMS
 shasum -a 256 -c SHA256SUMS
 tar -xzf model.tar.gz
 ```
