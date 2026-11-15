@@ -24,4 +24,4 @@ Use `python -m unittest -v test_inference` after installing requirements. `SHA25
 
 ## Attribution
 
-Apache 2.0 applies to the project's original code, annotations, and compilation. Source media retain their separate status and terms described by official source pages. See LICENSE, NOTICE, and sources.json. Third-party software is installed separately and retains its own licenses.
+The noncommercial software and content terms in LICENSING.md apply to UFO Files' original contributions; earlier Apache-2.0 grants remain valid. Source media retain their separate status and terms described by official source pages. See LICENSE, NOTICE, and sources.json. Third-party software is installed separately and retains its own licenses.
