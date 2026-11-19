@@ -1,6 +1,6 @@
 # Anomaly Vision Model
 
-[![Active model](badges/active-model.svg)](https://github.com/starpeopleai/anomaly-vision-model/releases/tag/model-45977736e0a25777a4ab63dc418b2a4e4c56238f87a85c70df54698fca475ce5)
+[![Active model](badges/active-model.svg)](https://github.com/starpeopleai/anomaly-vision-model/releases/tag/model-c5ce5f3dc2993351a92465c92b01e28f0c75cd5bc5b80c2d653965a6bc93fffa)
 [![Model published](https://img.shields.io/github/release-date/starpeopleai/anomaly-vision-model?label=model%20published)](https://github.com/starpeopleai/anomaly-vision-model/releases/latest)
 [![Cropped labels](badges/cropped-labels.svg)](https://github.com/starpeopleai/anomaly-vision-model/releases/latest)
 
